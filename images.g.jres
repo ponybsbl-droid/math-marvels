@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQUABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P8PAAAAAAAAAAAA////AAAAAAAAAAAA393/DwAAAAAAAAAA393d//8PAAAAAADw3//d/wAPAAAAAJD/Hf/d/QAPAAAAAPn/H//f/QAAAAAAkPn/3/Hf/QAAAAAAkP///x/d/QAAAAAAkB/x/////f8PAAAAmR/xP////wAPAAAA+f//M///DwAPAACQ+f//Mw8AAAAAAACQD/8zMw8AAAAAAAAAAAAwMw8AAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Duck of Power"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
